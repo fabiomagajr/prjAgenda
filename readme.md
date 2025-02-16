@@ -17,7 +17,7 @@ This is a simple contact book application built with Python and Django.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/fabiomagajr/prjagenda
+    git clone https://github.com/fabiomagajr/prjagenda.git
     cd contact-book
     ```
 
